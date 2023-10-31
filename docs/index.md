@@ -24,12 +24,6 @@ October 2020 - September 2021 </b><br/>
 * Contributed to the seamless migration of the existing system, facilitating its shift from Meteor to
 the Angular framework. Implemented and executed front-end tests using Python and Selenium.
 
-<b/n> Associate Software Engineer </b><br/>
-Sadeghieh Export Group | Tehran, Iran </b><br/>
-May 2013 - January 2015 </b><br/>
-
-* Developed an Inventory Management System utilizing Python, PostgreSQL, JavaScript, HTML.
-
 ---
 ## **Education**
 <b/n> Master of Art in computer science. </b>Brooklyn College, New York. 2017-2020 </br>
